@@ -20,6 +20,11 @@ export interface FinancingResult {
   paybackPeriodMonths?: number;
 }
 
+// Round a number to two decimal places (cents)
+function roundCents(value: number): number {
+  return Math.round(value * 100) / 100;
+}
+
 /**
  * Simulates a simple financing scenario.
  *
@@ -27,7 +32,9 @@ export interface FinancingResult {
  *
  * @param params Financing parameters
  */
-export function simulateFinancing(params: FinancingParameters): FinancingResult {
+export function simulateFinancing(
+  params: FinancingParameters,
+): FinancingResult {
   const { principal, annualRate, termMonths, monthlySavings } = params;
   if (principal <= 0) throw new Error('principal must be positive');
   if (annualRate < 0) throw new Error('annualRate must be non-negative');
@@ -36,17 +43,21 @@ export function simulateFinancing(params: FinancingParameters): FinancingResult 
   const monthlyRate = annualRate / 12;
 
   // Handle zero interest specially to avoid division by zero
-  const monthlyPayment =
+  const rawMonthlyPayment =
     monthlyRate === 0
       ? principal / termMonths
-      : (principal * monthlyRate) / (1 - Math.pow(1 + monthlyRate, -termMonths));
+      : (principal * monthlyRate) /
+        (1 - Math.pow(1 + monthlyRate, -termMonths));
+  const monthlyPayment = roundCents(rawMonthlyPayment);
 
   const result: FinancingResult = {
     monthlyPayment,
   };
 
   if (monthlySavings !== undefined && monthlySavings > monthlyPayment) {
-    const paybackMonths = Math.ceil(principal / (monthlySavings - monthlyPayment));
+    const paybackMonths = Math.ceil(
+      principal / (monthlySavings - rawMonthlyPayment),
+    );
     result.paybackPeriodMonths = paybackMonths;
   }
 
