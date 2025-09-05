@@ -3,7 +3,7 @@ import { z } from "zod";
 
 export const baseCardSchema = z.object({
   title: z.string(),
-  value: z.any(),
+  value: z.unknown(),
   editable: z.boolean().optional(),
   sources: z.array(z.string()).optional(),
 });
