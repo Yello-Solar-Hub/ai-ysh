@@ -4,6 +4,7 @@ import { Geist, Geist_Mono } from 'next/font/google';
 import { ThemeProvider } from '@/components/theme-provider';
 import { AccessibilityProvider } from '@/lib/accessibility/context';
 import { AccessibilityListener } from '@/components/accessibility-listener';
+import { TelemetryProvider } from '@/components/telemetry-provider';
 
 import './globals.css';
 import '../styles/accessibility.css';
@@ -89,6 +90,7 @@ export default async function RootLayout({
             <SessionProvider>
               {children}
               <AccessibilityListener />
+              <TelemetryProvider />
             </SessionProvider>
           </AccessibilityProvider>
         </ThemeProvider>

@@ -29,8 +29,8 @@ function TaskItem({ step }: { step: ToolStep }) {
         <span className="text-sm">{step.label}</span>
       </CollapsibleTrigger>
       <CollapsibleContent className="mt-2 text-xs">
-        {step.logs?.map((log, i) => (
-          <div key={i}>{log}</div>
+        {step.logs?.map((log) => (
+          <div key={log}>{log}</div>
         ))}
       </CollapsibleContent>
     </Collapsible>
