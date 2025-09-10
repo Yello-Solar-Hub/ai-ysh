@@ -1,0 +1,32 @@
+{
+  "id": "01HV6K7J8Z9W0X1Y2Z3A4B5C6D",
+  "channel": "whatsapp",
+  "direction": "in",
+  "from": {
+    "kind": "whatsapp",
+    "id": "whatsapp:+5511999999999",
+    "display": "João"
+  },
+  "to": {
+    "kind": "whatsapp",
+    "id": "whatsapp:+550000000000",
+    "route": {
+      "adapter": "mcp-whatsapp",
+      "threadId": "abcd"
+    }
+  },
+  "content": {
+    "type": "text",
+    "text": "Olá, tudo bem?"
+  },
+  "timestamp": "2024-10-20T12:34:56.000Z",
+  "status": "delivered",
+  "metadata": {
+    "campaign": "welcome"
+  },
+  "trace": {
+    "trace_id": "trace-123",
+    "span_id": "span-456",
+    "source": "provider"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "01HV6K7J8Z9W0X1Y2Z3A4B5C6E",
+  "channel": "whatsapp",
+  "direction": "out",
+  "from": {
+    "kind": "whatsapp",
+    "id": "whatsapp:+550000000000",
+    "display": "Empresa",
+    "route": {
+      "adapter": "mcp-whatsapp",
+      "threadId": "abcd"
+    }
+  },
+  "to": {
+    "kind": "whatsapp",
+    "id": "whatsapp:+5511999999999",
+    "display": "João"
+  },
+  "content": {
+    "type": "template",
+    "name": "welcome",
+    "variables": {
+      "first_name": "João"
+    }
+  },
+  "timestamp": "2024-10-20T12:36:00.000Z",
+  "status": "queued"
+}
