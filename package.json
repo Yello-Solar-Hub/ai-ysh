@@ -125,6 +125,7 @@
     "openai": "4.95.0",
     "orderedmap": "^2.1.1",
     "pdfjs-dist": "^5.4.149",
+    "pino": "9.4.0",
     "postgres": "^3.4.4",
     "prosemirror-example-setup": "^1.2.3",
     "prosemirror-inputrules": "^1.4.0",
