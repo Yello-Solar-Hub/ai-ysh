@@ -22,7 +22,7 @@ import {
   MoreHorizontalIcon,
   ShareIcon,
   TrashIcon,
-} from './icons';
+} from "@/components/icons";
 import { memo } from 'react';
 import { useChatVisibility } from '@/hooks/use-chat-visibility';
 

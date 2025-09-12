@@ -4,4 +4,3 @@ node_modules
 **/build
 **/coverage
 **/storybook-static
-**/*.stories.tsx

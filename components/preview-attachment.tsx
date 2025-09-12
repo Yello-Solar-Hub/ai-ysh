@@ -1,6 +1,6 @@
 import type { Attachment } from '@/lib/types';
 import { Loader } from './elements/loader';
-import { CrossSmallIcon, } from './icons';
+import { CrossSmallIcon } from "@/components/icons";
 import { Button } from './ui/button';
 
 export const PreviewAttachment = ({

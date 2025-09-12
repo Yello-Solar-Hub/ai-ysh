@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { RouteIcon } from './icons';
+import { RouteIcon } from "@/components/icons";
 
 export const Greeting = () => {
   return (

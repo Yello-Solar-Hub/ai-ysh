@@ -6,8 +6,16 @@ import {
   StopIcon,
   CopyIcon,
   TrashIcon,
-  InfoIcon,
-} from '../../../../components/icons';
+  BoldIcon,
+  ItalicIcon,
+  UnderlineIcon,
+  ListIcon,
+  ListOrderedIcon,
+  QuoteIcon,
+  CodeIcon,
+  LinkIcon,
+  PaletteIcon,
+} from "@/components/icons";
 
 interface AdvancedEditorProps {
   readonly content: string;

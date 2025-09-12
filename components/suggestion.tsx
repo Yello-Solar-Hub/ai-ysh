@@ -6,7 +6,7 @@ import { useWindowSize } from 'usehooks-ts';
 
 import type { UISuggestion } from '@/lib/editor/suggestions';
 
-import { CrossIcon, MessageIcon } from './icons';
+import { CrossIcon, MessageIcon } from "@/components/icons";
 import { Button } from './ui/button';
 import { cn } from '@/lib/utils';
 import type { ArtifactKind } from './artifact';

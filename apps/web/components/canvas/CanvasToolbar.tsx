@@ -8,7 +8,7 @@ import {
   TrashIcon,
   EyeIcon,
   LockIcon,
-} from '../../../../components/icons';
+} from "@/components/icons";
 import { CANVAS_ARTIFACT_TYPES, type CanvasArtifactType } from '../../lib/canvas/artifacts';
 
 interface CanvasToolbarProps {

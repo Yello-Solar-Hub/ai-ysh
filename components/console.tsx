@@ -1,4 +1,4 @@
-import { TerminalWindowIcon, CrossSmallIcon } from './icons';
+import { TerminalWindowIcon, CrossSmallIcon } from "@/components/icons";
 import { Loader } from './elements/loader';
 import { Button } from './ui/button';
 import {

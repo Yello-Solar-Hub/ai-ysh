@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { Button } from './ui/button';
-import { RouteIcon } from './icons';
+import { RouteIcon } from "@/components/icons";
 import { cn } from '@/lib/utils';
 import type { Phase } from '@/apps/web/lib/journey/map';
 import { phases, journeyMap } from '@/apps/web/lib/journey/map';
