@@ -2,4 +2,11 @@ ignoredBuiltDependencies:
   - es5-ext
 
 onlyBuiltDependencies:
+  - '@apollo/protobufjs'
+  - '@biomejs/biome'
   - better-sqlite3
+  - bufferutil
+  - esbuild
+  - protobufjs
+  - sharp
+  - styled-components

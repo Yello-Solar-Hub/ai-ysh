@@ -8,7 +8,7 @@ Esta configuração implementa um sistema completo de testes end-to-end (E2E) 36
 
 ### Estrutura de Arquivos
 
-```
+```bash
 tests/
 ├── setup/
 │   ├── setup.ts              # Configuração por teste

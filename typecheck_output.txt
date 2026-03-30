@@ -1,0 +1,984 @@
+
+> ai-chatbot@3.1.0 typecheck C:\Users\fjuni\Downloads\ai-ysh
+> tsc -b --pretty false
+
+apps/web/components/canvas/CollaborativeContext.tsx(364,2): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/CollaborativeContext.tsx(365,2): error TS17008: JSX element 'parameter' has no corresponding closing tag.
+apps/web/components/canvas/CollaborativeContext.tsx(365,101): error TS1005: '</' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(9,41): error TS1131: Property or signature expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(9,49): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(9,56): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(11,32): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(11,46): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(11,47): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(11,48): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(13,92): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(15,100): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(17,58): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(17,66): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(17,86): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(17,91): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(19,3): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(19,54): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(21,25): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(21,28): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(21,62): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(21,64): error TS1434: Unexpected keyword or identifier.
+apps/web/components/canvas/VisualManipulationTools.tsx(23,3): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(25,1): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(29,47): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(29,87): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(29,93): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(29,133): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(37,30): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(37,59): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(37,70): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(37,99): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(41,20): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(41,40): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(41,54): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(41,55): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(41,56): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(41,68): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(41,88): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(41,102): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(41,103): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(41,104): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(45,37): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(45,126): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(45,129): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(45,218): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(49,81): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(49,178): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(49,181): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(49,278): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(57,31): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(57,40): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(57,49): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(57,82): error TS1005: ')' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(57,85): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(61,44): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(61,69): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(65,39): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(65,48): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(65,51): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(65,64): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(65,77): error TS1005: ')' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(65,80): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(73,11): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(77,31): error TS1131: Property or signature expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(79,9): error TS1131: Property or signature expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(81,7): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(81,8): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(83,5): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(83,7): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(91,3): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(91,4): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(91,8): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(101,25): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(101,55): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(113,62): error TS1131: Property or signature expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(115,8): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(133,7): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(133,79): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(133,88): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(133,111): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(135,14): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(135,31): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(139,26): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(143,11): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(155,9): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(155,11): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(157,10): error TS1005: ')' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(159,5): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(161,3): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(161,4): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(161,72): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(165,27): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(165,59): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(165,61): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(165,63): error TS1434: Unexpected keyword or identifier.
+apps/web/components/canvas/VisualManipulationTools.tsx(165,91): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(169,138): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(171,22): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(177,5): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(177,10): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(177,39): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(177,81): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(177,83): error TS1359: Identifier expected. 'null' is a reserved word that cannot be used here.
+apps/web/components/canvas/VisualManipulationTools.tsx(177,87): error TS1138: Parameter declaration expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(181,7): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(181,17): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(183,9): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(185,11): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(185,24): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(185,32): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(189,11): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(189,40): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(189,62): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(191,38): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(191,53): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(193,11): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(193,20): error TS1136: Property assignment expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(193,24): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(193,65): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(193,66): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(193,70): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(193,71): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(195,20): error TS1136: Property assignment expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(195,23): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(195,57): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(197,20): error TS1136: Property assignment expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(197,23): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(197,50): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(199,9): error TS1161: Unterminated regular expression literal.
+apps/web/components/canvas/VisualManipulationTools.tsx(201,7): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(201,8): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(201,9): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(213,17): error TS1005: ')' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(215,7): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(217,5): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(219,3): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(221,1): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(225,35): error TS1131: Property or signature expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(227,3): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(227,12): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(227,20): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(227,36): error TS1005: ')' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(229,3): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(229,12): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(229,22): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(229,31): error TS1005: ')' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(231,3): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(233,3): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(233,54): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(235,3): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(235,31): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(237,3): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(237,31): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(245,24): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(245,48): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(257,2): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(257,24): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(265,29): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(269,14): error TS1136: Property assignment expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(271,23): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(279,8): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(281,30): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(281,31): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(281,39): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(281,40): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(285,35): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(287,5): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(289,35): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(289,40): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(293,28): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(293,58): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(305,70): error TS1145: '{' or JSX element expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(305,81): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(305,103): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(305,108): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(305,165): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(307,11): error TS1161: Unterminated regular expression literal.
+apps/web/components/canvas/VisualManipulationTools.tsx(309,9): error TS1005: '}' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(309,10): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(309,53): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(311,7): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(317,54): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(325,57): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(329,15): error TS1005: '}' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(329,59): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(329,112): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(331,14): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(333,13): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(337,7): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(337,15): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(337,23): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(345,160): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(345,183): error TS1005: '}' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(345,194): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(345,232): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(345,255): error TS1005: '}' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(345,266): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(353,5): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(355,3): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(357,1): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(369,5): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(375,7): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(377,5): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(377,14): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(377,31): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(381,5): error TS1005: 'export' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(381,12): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(385,3): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(385,8): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(385,13): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(387,1): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(388,3): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(388,4): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(388,56): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(388,60): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(388,61): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(388,113): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(406,39): error TS1359: Identifier expected. 'const' is a reserved word that cannot be used here.
+apps/web/components/canvas/VisualManipulationTools.tsx(406,45): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(412,38): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(414,20): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(432,18): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(440,39): error TS1005: ')' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(442,5): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(442,11): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(444,3): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(444,7): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(466,38): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(472,6): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(478,19): error TS1359: Identifier expected. 'true' is a reserved word that cannot be used here.
+apps/web/components/canvas/VisualManipulationTools.tsx(478,23): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(478,42): error TS1359: Identifier expected. 'true' is a reserved word that cannot be used here.
+apps/web/components/canvas/VisualManipulationTools.tsx(478,46): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(486,25): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(490,15): error TS1135: Argument expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(492,17): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(492,41): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(494,5): error TS1135: Argument expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(494,12): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(494,13): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(506,3): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(506,4): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(506,59): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(506,63): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(506,64): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(506,119): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(524,40): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(530,6): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(534,36): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(540,6): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(560,24): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(564,23): error TS1135: Argument expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(564,24): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(566,10): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(568,14): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(570,5): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(570,6): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(570,12): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(570,13): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(572,3): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(572,4): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(572,77): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(572,81): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(572,82): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(572,155): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(590,52): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(596,12): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(610,19): error TS1359: Identifier expected. 'false' is a reserved word that cannot be used here.
+apps/web/components/canvas/VisualManipulationTools.tsx(610,24): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(610,43): error TS1359: Identifier expected. 'false' is a reserved word that cannot be used here.
+apps/web/components/canvas/VisualManipulationTools.tsx(610,48): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(612,19): error TS1359: Identifier expected. 'null' is a reserved word that cannot be used here.
+apps/web/components/canvas/VisualManipulationTools.tsx(612,23): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(612,42): error TS1359: Identifier expected. 'null' is a reserved word that cannot be used here.
+apps/web/components/canvas/VisualManipulationTools.tsx(612,46): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(614,27): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(614,28): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(614,33): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(614,35): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(614,63): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(614,64): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(614,69): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(614,71): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(616,20): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(616,21): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(616,26): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(616,28): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(616,49): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(616,50): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(616,55): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(616,57): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(618,19): error TS1359: Identifier expected. 'false' is a reserved word that cannot be used here.
+apps/web/components/canvas/VisualManipulationTools.tsx(618,24): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(618,43): error TS1359: Identifier expected. 'false' is a reserved word that cannot be used here.
+apps/web/components/canvas/VisualManipulationTools.tsx(618,48): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(634,19): error TS1359: Identifier expected. 'false' is a reserved word that cannot be used here.
+apps/web/components/canvas/VisualManipulationTools.tsx(634,24): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(634,43): error TS1359: Identifier expected. 'false' is a reserved word that cannot be used here.
+apps/web/components/canvas/VisualManipulationTools.tsx(634,48): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(638,32): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(638,80): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(640,13): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(640,42): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(642,17): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(642,40): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(644,19): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(644,46): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(646,5): error TS1135: Argument expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(648,3): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(648,4): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(648,8): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(648,12): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(648,13): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(648,17): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(678,42): error TS1130: 'case' or 'default' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(724,5): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(724,75): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(724,88): error TS1136: Property assignment expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(730,7): error TS1005: ')' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(732,3): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(732,4): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(732,53): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(732,57): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(732,58): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(732,107): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(742,19): error TS1359: Identifier expected. 'false' is a reserved word that cannot be used here.
+apps/web/components/canvas/VisualManipulationTools.tsx(742,24): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(742,43): error TS1359: Identifier expected. 'false' is a reserved word that cannot be used here.
+apps/web/components/canvas/VisualManipulationTools.tsx(742,48): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(744,19): error TS1359: Identifier expected. 'null' is a reserved word that cannot be used here.
+apps/web/components/canvas/VisualManipulationTools.tsx(744,23): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(744,42): error TS1359: Identifier expected. 'null' is a reserved word that cannot be used here.
+apps/web/components/canvas/VisualManipulationTools.tsx(744,46): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(746,27): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(746,28): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(746,33): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(746,35): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(746,63): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(746,64): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(746,69): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(746,71): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(748,20): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(748,21): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(748,26): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(748,28): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(748,49): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(748,50): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(748,55): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(748,57): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(750,19): error TS1359: Identifier expected. 'false' is a reserved word that cannot be used here.
+apps/web/components/canvas/VisualManipulationTools.tsx(750,24): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(750,43): error TS1359: Identifier expected. 'false' is a reserved word that cannot be used here.
+apps/web/components/canvas/VisualManipulationTools.tsx(750,48): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(798,105): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(798,134): error TS1136: Property assignment expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(804,29): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(806,22): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(808,10): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(810,7): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(810,14): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(812,5): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(812,10): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(814,3): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(814,4): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(814,72): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(814,76): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(814,77): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(814,145): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(828,13): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(836,49): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(840,13): error TS1005: '>' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(842,40): error TS1136: Property assignment expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(844,15): error TS1005: '...' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(844,19): error TS1005: '}' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(852,13): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(852,14): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(852,27): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(852,28): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(860,12): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(860,24): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(862,10): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(862,20): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(870,51): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(874,11): error TS1005: '>' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(890,20): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(892,7): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(898,63): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(902,11): error TS1005: '>' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(906,20): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(908,7): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(912,7): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(914,1): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(914,2): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(920,33): error TS1131: Property or signature expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(936,2): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(940,36): error TS1005: ':' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(940,51): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(956,26): error TS1005: '=>' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(956,28): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(956,30): error TS1434: Unexpected keyword or identifier.
+apps/web/components/canvas/VisualManipulationTools.tsx(956,50): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(962,13): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(966,7): error TS1005: '>' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(968,28): error TS1136: Property assignment expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(970,9): error TS1005: '...' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(970,13): error TS1005: '}' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(970,23): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(970,32): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(970,34): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(970,57): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(970,66): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(970,68): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(972,22): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(972,31): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(972,33): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(972,55): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(972,64): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(972,66): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(974,24): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(974,29): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(974,35): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(974,59): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(974,64): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(974,70): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(976,25): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(976,30): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(976,37): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(976,62): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(976,67): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(976,74): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(978,7): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(978,8): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(978,15): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(978,16): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(980,35): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(982,35): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(984,10): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(986,37): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(990,47): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(994,13): error TS1005: '>' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1004,24): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1006,9): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1006,10): error TS1005: ')' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1006,20): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(1014,67): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1020,76): error TS1136: Property assignment expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1024,15): error TS1005: '>' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1030,44): error TS1136: Property assignment expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1032,77): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1034,15): error TS1135: Argument expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1034,16): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(1034,31): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(1034,32): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(1044,63): error TS1136: Property assignment expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1044,67): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1044,68): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(1046,36): error TS1005: '}' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1050,15): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(1050,16): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(1050,31): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(1050,32): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(1054,14): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(1054,28): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(1056,13): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(1056,26): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+apps/web/components/canvas/VisualManipulationTools.tsx(1060,8): error TS1005: ')' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1060,15): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1060,16): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1066,67): error TS1005: ',' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1070,11): error TS1005: '>' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1080,20): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1082,7): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1082,8): error TS1005: ')' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1082,15): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1082,16): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1084,5): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1084,15): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1086,3): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1086,7): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1088,1): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1088,2): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1094,39): error TS1131: Property or signature expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1100,2): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1122,13): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1126,7): error TS1005: '>' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1128,28): error TS1136: Property assignment expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1130,9): error TS1005: '...' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1130,13): error TS1005: '}' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1130,20): error TS1003: Identifier expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1130,36): error TS1005: ')' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1132,12): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1132,34): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1134,14): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1134,46): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1136,15): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1136,48): error TS1005: ';' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1138,7): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1138,15): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1138,16): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1140,5): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1140,10): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1148,5): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1148,15): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1150,3): error TS1109: Expression expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1150,7): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1152,1): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1152,2): error TS1128: Declaration or statement expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1160,22): error TS1130: 'case' or 'default' expected.
+apps/web/components/canvas/VisualManipulationTools.tsx(1184,2): error TS1128: Declaration or statement expected.
+app/(chat)/actions.ts(9,8): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/db/queries.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/lib/db/queries' from file 'C:/Users/fjuni/Downloads/ai-ysh/app/(chat)/actions.ts'
+    Imported via '@/lib/db/queries' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/actions.ts'
+    Imported via '../db/queries' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/artifacts/server.ts'
+    Imported via '@/lib/db/queries' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/tools/update-document.ts'
+    Imported via '@/lib/db/queries' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/tools/request-suggestions.ts'
+apps/web/components/upload/index.ts(1,47): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/apps/web/components/upload/image-compress.worker.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+apps/web/components/upload/index.ts(12,3): error TS2578: Unused '@ts-expect-error' directive.
+artifacts/code/client.tsx(17,8): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/console.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+artifacts/code/server.ts(3,28): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/providers.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/lib/ai/providers' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/code/server.ts'
+    Imported via '@/lib/ai/providers' from file 'C:/Users/fjuni/Downloads/ai-ysh/app/(chat)/actions.ts'
+    Imported via '@/lib/ai/providers' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/sheet/server.ts'
+    Imported via '@/lib/ai/providers' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/text/server.ts'
+    Imported via '../providers' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/tools/request-suggestions.ts'
+artifacts/code/server.ts(4,50): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/prompts.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/lib/ai/prompts' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/code/server.ts'
+    Imported via '@/lib/ai/prompts' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/sheet/server.ts'
+    Imported via '@/lib/ai/prompts' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/text/server.ts'
+artifacts/sheet/client.tsx(6,3): error TS2614: Module '"@/components/icons"' has no exported member 'SparklesIcon'. Did you mean to use 'import SparklesIcon from "@/components/icons"' instead?
+artifacts/text/client.tsx(2,26): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/diffview.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+artifacts/text/client.tsx(9,2): error TS2614: Module '"@/components/icons"' has no exported member 'PencilEditIcon'. Did you mean to use 'import PencilEditIcon from "@/components/icons"' instead?
+artifacts/text/client.tsx(15,32): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/actions.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/artifact-close-button.tsx(2,10): error TS2614: Module '"./icons"' has no exported member 'CrossIcon'. Did you mean to use 'import CrossIcon from "./icons"' instead?
+components/artifact-messages.tsx(1,49): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/message.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/artifact-messages.tsx(8,29): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/hooks/use-messages.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/artifact.tsx(15,33): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/multimodal-input.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/artifact.tsx(16,25): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/toolbar.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/artifact.tsx(17,31): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/version-footer.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/artifact.tsx(18,33): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact-actions.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/artifact.tsx(19,37): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact-close-button.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/artifact.tsx(20,34): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact-messages.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/artifact.tsx(23,31): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/image/client.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/artifact.tsx(24,30): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/code/client.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/artifact.tsx(25,31): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/sheet/client.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/artifact.tsx(26,30): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/text/client.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/console.tsx(1,30): error TS2614: Module '"./icons"' has no exported member 'CrossSmallIcon'. Did you mean to use 'import CrossSmallIcon from "./icons"' instead?
+components/diffview.tsx(16,38): error TS7016: Could not find a declaration file for module '@/lib/editor/diff'. 'C:/Users/fjuni/Downloads/ai-ysh/lib/editor/diff.js' implicitly has an 'any' type.
+components/document-preview.tsx(15,40): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/document-skeleton.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './document-skeleton' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/document-preview.tsx'
+    Imported via '@/components/document-skeleton' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/text/client.tsx'
+components/document-preview.tsx(17,24): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/text-editor.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './text-editor' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/document-preview.tsx'
+    Imported via '@/components/text-editor' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/text/client.tsx'
+components/document-preview.tsx(19,28): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/code-editor.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './code-editor' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/document-preview.tsx'
+    Imported via '@/components/code-editor' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/code/client.tsx'
+components/document-preview.tsx(22,35): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/sheet-editor.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './sheet-editor' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/document-preview.tsx'
+    Imported via '@/components/sheet-editor' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/sheet/client.tsx'
+components/document-preview.tsx(23,29): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/image-editor.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './image-editor' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/document-preview.tsx'
+    Imported via '@/components/image-editor' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/image/client.tsx'
+components/document.tsx(4,45): error TS2614: Module '"./icons"' has no exported member 'PencilEditIcon'. Did you mean to use 'import PencilEditIcon from "./icons"' instead?
+components/elements/message.tsx(1,53): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/avatar.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/elements/prompt-input.tsx(10,8): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/select.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/components/ui/select' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/prompt-input.tsx'
+    Imported via '@/components/ui/select' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/multimodal-input.tsx'
+components/elements/prompt-input.tsx(11,26): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/textarea.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/components/ui/textarea' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/prompt-input.tsx'
+    Imported via './ui/textarea' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/message-editor.tsx'
+components/elements/suggestion.tsx(4,39): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/scroll-area.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/elements/tool.tsx(3,23): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/badge.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/elements/tool.tsx(8,8): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/collapsible.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/components/ui/collapsible' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/tool.tsx'
+    Imported via '@/components/ui/collapsible' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/reasoning.tsx'
+components/elements/tool.tsx(20,27): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/code-block.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/icons.tsx(177,45): error TS2304: Cannot find name 'Check'.
+components/message-actions.tsx(7,33): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/actions.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/message-reasoning.tsx(3,63): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/reasoning.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/message.tsx(5,36): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/document.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './document' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/message.tsx'
+    Imported via './document' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/document-preview.tsx'
+components/message.tsx(6,10): error TS2614: Module '"@/components/icons"' has no exported member 'PencilEditIcon'. Did you mean to use 'import PencilEditIcon from "@/components/icons"' instead?
+components/message.tsx(6,26): error TS2614: Module '"@/components/icons"' has no exported member 'SparklesIcon'. Did you mean to use 'import SparklesIcon from "@/components/icons"' instead?
+components/message.tsx(7,26): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/response.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './elements/response' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/message.tsx'
+    Imported via '@/components/elements/response' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/editor/functions.tsx'
+    Imported via './response' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/reasoning.tsx'
+components/message.tsx(8,32): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/message.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/message.tsx(15,8): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/tool.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/message.tsx(16,32): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/message-actions.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/message.tsx(18,25): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/weather.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/message.tsx(23,31): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/message-editor.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/message.tsx(24,33): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/document-preview.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/message.tsx(25,34): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/message-reasoning.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/multimodal-input.tsx(17,54): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/icons.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './icons' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/multimodal-input.tsx'
+    Imported via './icons' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/preview-attachment.tsx'
+    Imported via './icons' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/visibility-selector.tsx'
+    Imported via './icons' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/sidebar-history-item.tsx'
+    Imported via './icons' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/sidebar-history.tsx'
+    Imported via './icons' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/toolbar.tsx'
+    Imported via './icons' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/version-footer.tsx'
+    Imported via './icons' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact-close-button.tsx'
+    Imported via './icons' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/document.tsx'
+    Imported via '@/components/icons' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/message.tsx'
+    Imported via './icons' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/message-actions.tsx'
+    Imported via './icons' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/document-preview.tsx'
+    Imported via './icons' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/suggestion.tsx'
+    Imported via './icons' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/image-editor.tsx'
+    Imported via '@/components/icons' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/image/client.tsx'
+    Imported via '@/components/icons' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/code/client.tsx'
+    Imported via './icons' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/console.tsx'
+    Imported via '@/components/icons' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/sheet/client.tsx'
+    Imported via "@/components/icons" from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/text/client.tsx'
+components/multimodal-input.tsx(18,35): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/preview-attachment.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './preview-attachment' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/multimodal-input.tsx'
+    Imported via './preview-attachment' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/message.tsx'
+components/multimodal-input.tsx(20,34): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/suggested-actions.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/multimodal-input.tsx(30,8): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/prompt-input.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/multimodal-input.tsx(36,35): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/hooks/use-scroll-to-bottom.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/hooks/use-scroll-to-bottom' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/multimodal-input.tsx'
+    Imported via './use-scroll-to-bottom' from file 'C:/Users/fjuni/Downloads/ai-ysh/hooks/use-messages.tsx'
+components/multimodal-input.tsx(39,28): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/models.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/multimodal-input.tsx(42,31): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/follow-up-chips.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/multimodal-input.tsx(43,34): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/apps/web/components/upload/index.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/preview-attachment.tsx(2,24): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/loader.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './elements/loader' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/preview-attachment.tsx'
+    Imported via './elements/loader' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/console.tsx'
+components/preview-attachment.tsx(3,10): error TS2614: Module '"./icons"' has no exported member 'CrossSmallIcon'. Did you mean to use 'import CrossSmallIcon from "./icons"' instead?
+components/preview-attachment.tsx(4,24): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/button.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/preview-attachment.tsx'
+    Imported via './ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/multimodal-input.tsx'
+    Imported via '@/components/ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/visibility-selector.tsx'
+    Imported via '@/components/ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/alert-dialog.tsx'
+    Imported via '@/components/ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/sidebar.tsx'
+    Imported via '@/components/ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/suggestion.tsx'
+    Imported via '@/components/ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/prompt-input.tsx'
+    Imported via './ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/version-footer.tsx'
+    Imported via './ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact-actions.tsx'
+    Imported via './ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact-close-button.tsx'
+    Imported via '@/components/ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/code-block.tsx'
+    Imported via '@/components/ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/actions.tsx'
+    Imported via './ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/message.tsx'
+    Imported via './ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/message-editor.tsx'
+    Imported via './ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/suggestion.tsx'
+    Imported via './ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/console.tsx'
+    Imported via '@/components/ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/packages/ui-cards/BOMCard.tsx'
+    Imported via '@/components/ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/packages/ui-cards/ConsumptionCard.tsx'
+    Imported via '@/components/ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/packages/ui-cards/ExpansionCard.tsx'
+    Imported via '@/components/ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/packages/ui-cards/IntentCard.tsx'
+    Imported via '@/components/ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/packages/ui-cards/OpportunityCard.tsx'
+    Imported via '@/components/ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/packages/ui-cards/PanelDetectionCard.tsx'
+    Imported via '@/components/ui/button' from file 'C:/Users/fjuni/Downloads/ai-ysh/packages/ui-cards/ProposalCard.tsx'
+components/sidebar-history-item.tsx(19,3): error TS2614: Module '"./icons"' has no exported member 'CheckCircleFillIcon'. Did you mean to use 'import CheckCircleFillIcon from "./icons"' instead?
+components/sidebar-history.tsx(18,8): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/alert-dialog.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/sidebar-history.tsx(24,8): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/sidebar.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/components/ui/sidebar' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/sidebar-history.tsx'
+    Imported via './ui/sidebar' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/sidebar-history-item.tsx'
+    Imported via './ui/sidebar' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact.tsx'
+components/sidebar-history.tsx(27,26): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/sidebar-history-item.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/suggested-actions.tsx(6,37): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/visibility-selector.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './visibility-selector' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/suggested-actions.tsx'
+    Imported via '@/components/visibility-selector' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/db/queries.ts'
+    Imported via '@/components/visibility-selector' from file 'C:/Users/fjuni/Downloads/ai-ysh/app/(chat)/actions.ts'
+    Imported via '@/components/visibility-selector' from file 'C:/Users/fjuni/Downloads/ai-ysh/hooks/use-chat-visibility.ts'
+    Imported via './visibility-selector' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/multimodal-input.tsx'
+    Imported via './visibility-selector' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact.tsx'
+components/suggested-actions.tsx(8,28): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/persona/context.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/suggested-actions.tsx(9,28): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/suggestion.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './elements/suggestion' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/suggested-actions.tsx'
+    Imported via "./elements/suggestion" from file 'C:/Users/fjuni/Downloads/ai-ysh/components/follow-up-chips.tsx'
+components/suggestion.tsx(9,10): error TS2614: Module '"./icons"' has no exported member 'CrossIcon'. Did you mean to use 'import CrossIcon from "./icons"' instead?
+components/text-editor.tsx(14,8): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/editor/config.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/lib/editor/config' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/text-editor.tsx'
+    Imported via './config' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/editor/functions.tsx'
+components/toolbar.tsx(29,42): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/create-artifact.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './create-artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/toolbar.tsx'
+    Imported via './create-artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact-actions.tsx'
+    Imported via '@/components/create-artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/image/client.tsx'
+    Imported via '@/components/create-artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/code/client.tsx'
+    Imported via '@/components/create-artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/sheet/client.tsx'
+    Imported via '@/components/create-artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/text/client.tsx'
+components/ui/button.tsx(6,31): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/brand.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via "@/lib/brand" from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/button.tsx'
+    Imported via "@/lib/brand" from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/avatar.tsx'
+components/ui/card.tsx(3,20): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/utils.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/card.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/tools/create-document.ts'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/loader.tsx'
+    Imported via "@/lib/utils" from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/button.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/dropdown-menu.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/visibility-selector.tsx'
+    Imported via '../utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/db/queries.ts'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/alert-dialog.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/sidebar.tsx'
+    Imported via "@/lib/utils" from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/input.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/separator.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/sheet.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/skeleton.tsx'
+    Imported via "@/lib/utils" from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/tooltip.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/sidebar-history.tsx'
+    Imported via "@/lib/utils" from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/scroll-area.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/suggestion.tsx'
+    Imported via "@/lib/utils" from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/select.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/textarea.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/prompt-input.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/version-footer.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact-actions.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/response.tsx'
+    Imported via "@/lib/utils" from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/avatar.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/message.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/badge.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/tool.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/code-block.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/actions.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/message.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/message-editor.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/document-preview.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/suggestion.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/sheet-editor.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/reasoning.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/code/client.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/console.tsx'
+    Imported via '@/lib/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/tools/request-suggestions.ts'
+components/ui/sidebar.tsx(8,29): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/hooks/use-mobile.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/ui/sidebar.tsx(11,23): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/input.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/ui/sidebar.tsx(12,27): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/separator.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/ui/sidebar.tsx(13,37): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/sheet.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/ui/sidebar.tsx(14,26): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/skeleton.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+components/ui/sidebar.tsx(20,8): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/tooltip.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/components/ui/tooltip' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/sidebar.tsx'
+    Imported via '@/components/ui/tooltip' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/toolbar.tsx'
+    Imported via './ui/tooltip' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact-actions.tsx'
+    Imported via '@/components/ui/tooltip' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/elements/actions.tsx'
+    Imported via './ui/tooltip' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/message.tsx'
+components/version-footer.tsx(14,29): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/hooks/use-artifact.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/hooks/use-artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/version-footer.tsx'
+    Imported via '@/hooks/use-artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact-close-button.tsx'
+    Imported via '@/hooks/use-artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/document.tsx'
+    Imported via '@/hooks/use-artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/document-preview.tsx'
+    Imported via '@/hooks/use-artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact.tsx'
+    Imported via '@/hooks/use-artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/console.tsx'
+components/visibility-selector.tsx(10,8): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/dropdown-menu.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/components/ui/dropdown-menu' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/visibility-selector.tsx'
+    Imported via './ui/dropdown-menu' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/sidebar-history-item.tsx'
+components/visibility-selector.tsx(13,3): error TS2614: Module '"./icons"' has no exported member 'CheckCircleFillIcon'. Did you mean to use 'import CheckCircleFillIcon from "./icons"' instead?
+components/visibility-selector.tsx(18,35): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/hooks/use-chat-visibility.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/hooks/use-chat-visibility' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/visibility-selector.tsx'
+    Imported via '@/hooks/use-chat-visibility' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/sidebar-history-item.tsx'
+hooks/use-chat-visibility.ts(6,38): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/app/(chat)/actions.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/app/(chat)/actions' from file 'C:/Users/fjuni/Downloads/ai-ysh/hooks/use-chat-visibility.ts'
+    Imported via '@/app/(chat)/actions' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/multimodal-input.tsx'
+    Imported via '@/app/(chat)/actions' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/message-editor.tsx'
+hooks/use-chat-visibility.ts(10,8): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/sidebar-history.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+lib/ai/models.test.ts(3,43): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/tests/prompts/utils.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+lib/ai/prompts.ts(1,35): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/components/artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/prompts.ts'
+    Imported via '@/components/artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/db/queries.ts'
+    Imported via './artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/toolbar.tsx'
+    Imported via './artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/create-artifact.tsx'
+    Imported via '@/components/artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/hooks/use-artifact.ts'
+    Imported via './artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact-actions.tsx'
+    Imported via './artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/document.tsx'
+    Imported via './artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/document-preview.tsx'
+    Imported via './artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/document-skeleton.tsx'
+    Imported via './artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/suggestion.tsx'
+    Imported via '@/components/artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/editor/suggestions.tsx'
+    Imported via './artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact-messages.tsx'
+    Imported via '@/components/artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/artifacts/server.ts'
+    Imported via '@/components/artifact' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/types.ts'
+lib/ai/providers.ts(14,8): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/models.test.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+lib/ai/providers.ts(15,35): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/constants.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+lib/ai/providers.ts(113,50): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/load-balancing/load-balancer.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+lib/ai/tools/create-document.ts(8,8): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/artifacts/server.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/lib/artifacts/server' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/tools/create-document.ts'
+    Imported via '@/lib/artifacts/server' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/code/server.ts'
+    Imported via '@/lib/artifacts/server' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/sheet/server.ts'
+    Imported via '@/lib/artifacts/server' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/text/server.ts'
+    Imported via '@/lib/artifacts/server' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/tools/update-document.ts'
+lib/artifacts/server.ts(1,37): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/code/server.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+lib/artifacts/server.ts(2,38): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/sheet/server.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+lib/artifacts/server.ts(3,37): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/text/server.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+lib/constants.ts(1,39): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/db/utils.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './db/utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/constants.ts'
+    Imported via './utils' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/db/queries.ts'
+lib/editor/config.ts(9,42): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/editor/functions.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './functions' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/editor/config.ts'
+    Imported via '@/lib/editor/functions' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/text-editor.tsx'
+lib/editor/functions.tsx(11,59): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/editor/suggestions.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './suggestions' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/editor/functions.tsx'
+    Imported via '@/lib/editor/suggestions' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/suggestion.tsx'
+    Imported via '@/lib/editor/suggestions' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/text-editor.tsx'
+lib/editor/suggestions.tsx(10,49): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/suggestion.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+lib/load-balancing/load-balancer.ts(1,36): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/monitoring/performance.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+lib/load-balancing/load-balancer.ts(2,52): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/monitoring/metrics.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+lib/load-balancing/load-balancer.ts(432,27): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/monitoring/alerts.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '../monitoring/alerts' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/load-balancing/load-balancer.ts'
+    Imported via '../monitoring/alerts' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/load-balancing/load-balancer.ts'
+lib/monitoring/metrics.ts(7,72): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/metrics/hist.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/lib/metrics/hist' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/monitoring/metrics.ts'
+    Imported via '@/lib/metrics/hist' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/monitoring/alerts.ts'
+lib/types.ts(2,33): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/tools/get-weather.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+lib/types.ts(3,37): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/tools/create-document.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+lib/types.ts(4,37): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/tools/update-document.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+lib/types.ts(5,41): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/tools/request-suggestions.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+lib/utils.ts(9,42): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/db/schema.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/lib/db/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/utils.ts'
+    Imported via '@/lib/db/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact.tsx'
+    Imported via './schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/db/queries.ts'
+    Imported via '@/lib/db/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/sidebar-history.tsx'
+    Imported via '@/lib/db/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/sidebar-history-item.tsx'
+    Imported via '@/lib/db/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/create-artifact.tsx'
+    Imported via '@/lib/db/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/version-footer.tsx'
+    Imported via '@/lib/db/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/message.tsx'
+    Imported via '@/lib/db/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/message-actions.tsx'
+    Imported via '@/lib/db/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/document-preview.tsx'
+    Imported via '@/lib/db/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/text-editor.tsx'
+    Imported via '@/lib/db/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/editor/suggestions.tsx'
+    Imported via '@/lib/db/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/code-editor.tsx'
+    Imported via '@/lib/db/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact-messages.tsx'
+    Imported via '@/lib/db/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/artifacts/text/client.tsx'
+    Imported via '../db/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/artifacts/server.ts'
+    Imported via '@/lib/db/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/tools/request-suggestions.ts'
+    Imported via './db/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/types.ts'
+lib/utils.ts(10,46): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/errors.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './errors' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/utils.ts'
+    Imported via '../errors' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/db/queries.ts'
+lib/utils.ts(11,64): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/types.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './types' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/utils.ts'
+    Imported via '@/lib/types' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/preview-attachment.tsx'
+    Imported via '@/lib/types' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/suggested-actions.tsx'
+    Imported via '@/lib/types' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/multimodal-input.tsx'
+    Imported via "@/lib/types" from file 'C:/Users/fjuni/Downloads/ai-ysh/components/follow-up-chips.tsx'
+    Imported via '@/lib/types' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/create-artifact.tsx'
+    Imported via '@/lib/types' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/toolbar.tsx'
+    Imported via '@/lib/types' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/message-actions.tsx'
+    Imported via '@/lib/types' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/message-editor.tsx'
+    Imported via '@/lib/types' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/message.tsx'
+    Imported via '@/lib/types' from file 'C:/Users/fjuni/Downloads/ai-ysh/hooks/use-messages.tsx'
+    Imported via '@/lib/types' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact-messages.tsx'
+    Imported via '@/lib/types' from file 'C:/Users/fjuni/Downloads/ai-ysh/components/artifact.tsx'
+    Imported via '../types' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/artifacts/server.ts'
+    Imported via '@/lib/types' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/tools/create-document.ts'
+    Imported via '@/lib/types' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/tools/update-document.ts'
+    Imported via '@/lib/types' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/ai/tools/request-suggestions.ts'
+packages/ui-cards/ArchiveCard.tsx(3,23): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/apps/web/lib/analytics/events.pix.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '../../apps/web/lib/analytics/events.pix' from file 'C:/Users/fjuni/Downloads/ai-ysh/packages/ui-cards/ArchiveCard.tsx'
+    Imported via '../../apps/web/lib/analytics/events.pix' from file 'C:/Users/fjuni/Downloads/ai-ysh/packages/ui-viewers/STACAssetViewer.tsx'
+packages/ui-cards/BOMCard.tsx(2,58): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/components/ui/card.tsx' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/components/ui/card' from file 'C:/Users/fjuni/Downloads/ai-ysh/packages/ui-cards/BOMCard.tsx'
+    Imported via '@/components/ui/card' from file 'C:/Users/fjuni/Downloads/ai-ysh/packages/ui-cards/ConsumptionCard.tsx'
+    Imported via '@/components/ui/card' from file 'C:/Users/fjuni/Downloads/ai-ysh/packages/ui-cards/ExpansionCard.tsx'
+    Imported via '@/components/ui/card' from file 'C:/Users/fjuni/Downloads/ai-ysh/packages/ui-cards/IntentCard.tsx'
+    Imported via '@/components/ui/card' from file 'C:/Users/fjuni/Downloads/ai-ysh/packages/ui-cards/OpportunityCard.tsx'
+    Imported via '@/components/ui/card' from file 'C:/Users/fjuni/Downloads/ai-ysh/packages/ui-cards/PanelDetectionCard.tsx'
+    Imported via '@/components/ui/card' from file 'C:/Users/fjuni/Downloads/ai-ysh/packages/ui-cards/ProposalCard.tsx'
+packages/ui-editors/JSONCSVViewer.test.tsx(19,21): error TS2339: Property 'value' does not exist on type 'HTMLElement'.
+packages/ui-editors/JSONCSVViewer.tsx(8,8): error TS7016: Could not find a declaration file for module 'diff-match-patch'. 'C:/Users/fjuni/Downloads/ai-ysh/node_modules/.pnpm/diff-match-patch@1.0.5/node_modules/diff-match-patch/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/diff-match-patch` if it exists or add a new declaration (.d.ts) file containing `declare module 'diff-match-patch';`
+packages/ui-editors/JSONCSVViewer.tsx(123,22): error TS7031: Binding element 'op' implicitly has an 'any' type.
+packages/ui-editors/JSONCSVViewer.tsx(123,26): error TS7031: Binding element 'text' implicitly has an 'any' type.
+packages/ui-editors/ParameterSheet.tsx(60,76): error TS2339: Property 'value' does not exist on type 'ZodNumberCheck'.
+  Property 'value' does not exist on type '{ kind: "int"; message?: string | undefined; }'.
+packages/ui-editors/ParameterSheet.tsx(61,76): error TS2339: Property 'value' does not exist on type 'ZodNumberCheck'.
+  Property 'value' does not exist on type '{ kind: "int"; message?: string | undefined; }'.
+packages/ui-editors/ParameterSheet.tsx(93,43): error TS7006: Parameter 'opt' implicitly has an 'any' type.
+tests/prompts/utils.ts(2,30): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/tests/prompts/basic.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.packages.json'. Projects must list all files or use an 'include' pattern.
+adapters/whatsapp/sender.ts(1,25): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/services/template-composer.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.workers.json'. Projects must list all files or use an 'include' pattern.
+adapters/whatsapp/sender.ts(2,38): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/analytics/events.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.workers.json'. Projects must list all files or use an 'include' pattern.
+adapters/whatsapp/sender.ts(4,39): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/omni/schema.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.workers.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via "@/lib/omni/schema" from file 'C:/Users/fjuni/Downloads/ai-ysh/adapters/whatsapp/sender.ts'
+    Imported via "@/lib/omni/schema" from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/omni/dispatch.ts'
+    Imported via '@/lib/omni/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/workers/inbound-consumer.ts'
+    Imported via '@/lib/omni/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/agents/tools/send_message.ts'
+    Imported via '@/lib/omni/schema' from file 'C:/Users/fjuni/Downloads/ai-ysh/agents/router.ts'
+agents/router.ts(2,44): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/agents/router/policies.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.workers.json'. Projects must list all files or use an 'include' pattern.
+agents/router.ts(3,29): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/agents/router/handlers/sales.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.workers.json'. Projects must list all files or use an 'include' pattern.
+agents/router.ts(4,24): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/agents/kb/kb_search.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.workers.json'. Projects must list all files or use an 'include' pattern.
+agents/tools/send_message.ts(37,23): error TS2339: Property 'channel' does not exist on type '{ message: { id: string; channel: "whatsapp" | "telegram" | "email" | "sms" | "instagram" | "linkedin" | "web" | "voice"; direction: "out"; conversationId: string; from: { id: string; email?: string | undefined; phone?: string | undefined; displayName?: string | undefined; handles?: Record<...> | undefined; }; ... 4...'.
+  Property 'channel' does not exist on type '{ message: { id: string; channel: "whatsapp" | "telegram" | "email" | "sms" | "instagram" | "linkedin" | "web" | "voice"; direction: "out"; conversationId: string; from: { id: string; email?: string | undefined; phone?: string | undefined; displayName?: string | undefined; handles?: Record<...> | undefined; }; ... 4...'.
+agents/tools/send_message.ts(39,19): error TS2339: Property 'text' does not exist on type '{ message: { id: string; channel: "whatsapp" | "telegram" | "email" | "sms" | "instagram" | "linkedin" | "web" | "voice"; direction: "out"; conversationId: string; from: { id: string; email?: string | undefined; phone?: string | undefined; displayName?: string | undefined; handles?: Record<...> | undefined; }; ... 4...'.
+  Property 'text' does not exist on type '{ message: { id: string; channel: "whatsapp" | "telegram" | "email" | "sms" | "instagram" | "linkedin" | "web" | "voice"; direction: "out"; conversationId: string; from: { id: string; email?: string | undefined; phone?: string | undefined; displayName?: string | undefined; handles?: Record<...> | undefined; }; ... 4...'.
+lib/omni/dispatch.ts(1,69): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/adapters/whatsapp/sender.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.workers.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via "../../adapters/whatsapp/sender" from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/omni/dispatch.ts'
+    Imported via "../adapters/whatsapp/sender" from file 'C:/Users/fjuni/Downloads/ai-ysh/workers/dispatcher.test.ts'
+lib/omni/log.ts(2,30): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/security/sanitize.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.workers.json'. Projects must list all files or use an 'include' pattern.
+lib/omni/schema.ts(3,56): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/omni/errors.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.workers.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via './errors' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/omni/schema.ts'
+    Imported via './errors' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/omni/bus.ts'
+lib/services/template-composer.ts(1,61): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/types/messaging.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.workers.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via "@/lib/types/messaging" from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/services/template-composer.ts'
+    Imported via "@/lib/types/messaging" from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/repo/personas-repo.ts'
+    Imported via "@/lib/types/messaging" from file 'C:/Users/fjuni/Downloads/ai-ysh/adapters/whatsapp/sender.ts'
+lib/services/template-composer.ts(2,27): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/repo/personas-repo.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.workers.json'. Projects must list all files or use an 'include' pattern.
+workers/dispatcher.test.ts(97,33): error TS2345: Argument of type 'FakeRedis' is not assignable to parameter of type 'RedisLike'.
+  The types returned by 'xAutoClaim(...)' are incompatible between these types.
+    Type 'Promise<readonly ["0-0", readonly []] | readonly ["0-0", { id: string; message: Record<string, string>; }[]]>' is not assignable to type 'Promise<[string, { id: string; message: Record<string, string>; }[]]>'.
+      Type 'readonly ["0-0", readonly []] | readonly ["0-0", { id: string; message: Record<string, string>; }[]]' is not assignable to type '[string, { id: string; message: Record<string, string>; }[]]'.
+        The type 'readonly ["0-0", readonly []]' is 'readonly' and cannot be assigned to the mutable type '[string, { id: string; message: Record<string, string>; }[]]'.
+workers/dispatcher.test.ts(110,12): error TS2532: Object is possibly 'undefined'.
+workers/dispatcher.test.ts(123,12): error TS2532: Object is possibly 'undefined'.
+workers/dispatcher.test.ts(127,12): error TS2532: Object is possibly 'undefined'.
+workers/dispatcher.test.ts(135,12): error TS2532: Object is possibly 'undefined'.
+workers/dispatcher.test.ts(136,12): error TS2532: Object is possibly 'undefined'.
+workers/dispatcher.ts(2,46): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/omni/dispatch.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.workers.json'. Projects must list all files or use an 'include' pattern.
+workers/dispatcher.ts(3,50): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/metrics/counters.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.workers.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via "@/lib/metrics/counters" from file 'C:/Users/fjuni/Downloads/ai-ysh/workers/dispatcher.ts'
+    Imported via '@/lib/metrics/counters' from file 'C:/Users/fjuni/Downloads/ai-ysh/workers/inbound-consumer.ts'
+    Imported via '@/lib/metrics/counters' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/omni/bus.ts'
+workers/dispatcher.ts(4,24): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/omni/log.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.workers.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via "@/lib/omni/log" from file 'C:/Users/fjuni/Downloads/ai-ysh/workers/dispatcher.ts'
+    Imported via '@/lib/omni/log' from file 'C:/Users/fjuni/Downloads/ai-ysh/workers/inbound-consumer.ts'
+workers/dispatcher.ts(5,49): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/metrics/hist.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.workers.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via "@/lib/metrics/hist" from file 'C:/Users/fjuni/Downloads/ai-ysh/workers/dispatcher.ts'
+    Imported via '@/lib/metrics/hist' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/monitoring/metrics.ts'
+    Imported via '@/lib/metrics/hist' from file 'C:/Users/fjuni/Downloads/ai-ysh/workers/inbound-consumer.ts'
+workers/dispatcher.ts(6,34): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/monitoring/metrics.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.workers.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via "@/lib/monitoring/metrics" from file 'C:/Users/fjuni/Downloads/ai-ysh/workers/dispatcher.ts'
+    Imported via '@/lib/monitoring/metrics' from file 'C:/Users/fjuni/Downloads/ai-ysh/lib/omni/bus.ts'
+    Imported via '@/lib/monitoring/metrics' from file 'C:/Users/fjuni/Downloads/ai-ysh/workers/inbound-consumer.ts'
+workers/inbound-consumer.ts(4,34): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/lib/omni/bus.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.workers.json'. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via '@/lib/omni/bus' from file 'C:/Users/fjuni/Downloads/ai-ysh/workers/inbound-consumer.ts'
+    Imported via '@/lib/omni/bus' from file 'C:/Users/fjuni/Downloads/ai-ysh/agents/tools/send_message.ts'
+workers/inbound-consumer.ts(8,30): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/agents/tools/send_message.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.workers.json'. Projects must list all files or use an 'include' pattern.
+workers/inbound-consumer.ts(91,45): error TS6307: File 'C:/Users/fjuni/Downloads/ai-ysh/agents/router.ts' is not listed within the file list of project 'C:/Users/fjuni/Downloads/ai-ysh/tsconfig.workers.json'. Projects must list all files or use an 'include' pattern.
+ÔÇëELIFECYCLEÔÇë Command failed with exit code 1.

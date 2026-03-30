@@ -69,8 +69,7 @@
     "@ai-sdk/react": "2.0.26",
     "@ai-sdk/xai": "2.0.13",
     "@apollo/server": "^5.0.0",
-    "@autoview/agent": "^10.0.6",
-    "@autoview/ui": "^10.0.6",
+
     "@codemirror/lang-javascript": "^6.2.2",
     "@codemirror/lang-python": "^6.1.6",
     "@codemirror/state": "^6.5.0",

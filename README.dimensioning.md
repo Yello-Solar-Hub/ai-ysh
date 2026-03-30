@@ -25,11 +25,13 @@ Este módulo permite aos usuários dimensionar sistemas FV com base nas caracter
 ## Funcionalidades
 
 ### Persona Owner
+
 - Entrada simplificada: área total ou L/W aproximados
 - Seleção de módulo preferido
 - Cálculo automático de inversor
 
 ### Persona Integrator
+
 - Múltiplas seções com geometria detalhada
 - Controle de orientação (portrait/landscape)
 - Preferências de módulo e inversor
@@ -39,21 +41,25 @@ Este módulo permite aos usuários dimensionar sistemas FV com base nas caracter
 ## Cálculos
 
 ### Packing de Painéis
+
 - Margens de segurança (walkways/setbacks)
 - Orientação otimizada (portrait vs landscape)
 - Fator de sombreamento
 
 ### Seleção de Inversor
+
 - Baseado em potência DC necessária
 - Respeito ao target DC/AC ratio
 - Preferência do usuário quando possível
 
 ### Dimensionamento de Strings
+
 - Distribuição equilibrada entre MPPTs
 - Respeito aos limites de tensão
 - Folga para condições de frio
 
 ### BOM
+
 - Lista completa de materiais
 - Proteções DC e AC
 - Quantidades calculadas
@@ -61,17 +67,20 @@ Este módulo permite aos usuários dimensionar sistemas FV com base nas caracter
 ## Desenvolvimento
 
 ### Dependências
+
 - Next.js 15 + React 19
 - TypeScript
 - Zod para validação
 - Tailwind + shadcn/ui
 
 ### Testes
+
 - Unitários: funções de cálculo
 - E2E: fluxos completos
 - Stories: componentes isolados
 
 ### Scripts
+
 ```bash
 # Desenvolvimento
 pnpm dev
@@ -87,20 +96,25 @@ pnpm build
 ## API
 
 ### POST /api/dimensioning/calc
+
 Recebe `DimensioningInput` e retorna `DimensioningResult`.
 
 ### Server Action
+
 `dimensionSystemAction` para uso em formulários React.
 
 ## Extensibilidade
 
 ### Catálogos
+
 Módulos e inversores definidos em `calc.ts`. Fácil expansão.
 
 ### Tools Abstratas
+
 Suporte para integração com APIs externas via `service.ts`.
 
 ### Persona System
+
 Lógica condicional baseada em `persona` prop.
 
 ## Considerações de Segurança
